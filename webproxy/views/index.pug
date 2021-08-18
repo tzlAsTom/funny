@@ -1,0 +1,26 @@
+extends layout
+
+block append header
+  script(type="text/javascript").
+    function resetIframe(){
+      var newUrl = document.getElementById("url").value;
+      var uri = '/proxy?url=' + encodeURIComponent(newUrl);
+      document.getElementById("frameRemote").src=uri;
+      document.getElementById("realUrl").innerText = window.location + uri.slice(1);
+    }
+    function resetOnEnter(e){
+      if(e.keyCode == 13){
+        resetIframe();
+        return false;
+      }
+    }
+block content
+  div(style="height:100%;display:flex;flex-direction:column;")
+    div(style="")
+      input(type="url"  onkeypress="return resetOnEnter(event);" id="url" name="url" style="height:40px;width: 100%")
+      //input(type="submit" autofocus="autofocus" value="GoGo" style="height:100%" onClick="resetIframe()") 
+      div
+        span(id="realUrl")
+      hr
+    iframe(id="frameRemote" src="about:blank" style="width:100%;flex: auto;")
+

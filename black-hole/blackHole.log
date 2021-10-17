@@ -6840,3 +6840,62 @@ Sat Oct 16 2021 22:29:12 GMT+0800 (HKT) HTTP ::ffff:54.183.246.64:58090 GET / ["
 
 Sat Oct 16 2021 23:44:53 GMT+0800 (HKT) HTTP ::ffff:209.141.41.12:35424 GET /config/getuser?index=0 ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:76.0) Gecko/20100101 Firefox/76.0","Accept","text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","Accept-Language","en-GB,en;q=0.5","Accept-Encoding","gzip, deflate","Connection","close","Upgrade-Insecure-Requests","1"]
 
+Sun Oct 17 2021 02:23:10 GMT+0800 (HKT) HTTP ::ffff:13.230.210.204:59318 GET http://wall.angelsword.cc/lixuan.php ["Host","wall.angelsword.cc","User-Agent","Go-http-client/1.1","Lixuan-Sima","8080","Accept-Encoding","gzip"]
+
+Sun Oct 17 2021 02:56:39 GMT+0800 (HKT) HTTP ::ffff:162.62.117.51:23499 GET / ["Host","172.104.76.143:8080","Connection","close"]
+
+Sun Oct 17 2021 03:33:12 GMT+0800 (HKT) HTTP ::ffff:185.220.101.38:20834 GET / ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)","Connection","close","Accept","*/*","Accept-Encoding","gzip"]
+
+Sun Oct 17 2021 03:33:15 GMT+0800 (HKT) HTTP ::ffff:185.129.62.62:39258 GET /favicon.ico ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)","Connection","close","Accept","*/*","Accept-Encoding","gzip"]
+
+Sun Oct 17 2021 08:41:27 GMT+0800 (HKT) HTTP ::ffff:209.141.41.12:33170 GET /config/getuser?index=0 ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:76.0) Gecko/20100101 Firefox/76.0","Accept","text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","Accept-Language","en-GB,en;q=0.5","Accept-Encoding","gzip, deflate","Connection","close","Upgrade-Insecure-Requests","1"]
+
+Sun Oct 17 2021 08:59:07 GMT+0800 (HKT) TCP new client ::ffff:167.248.133.60:59530
+events.js:183
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+worker 18737 died
+Worker 22706 started
+tcp server listening { port: 8124, family: 'IPv6', address: '::' }
+http listening :::8080
+udp listening 0.0.0.0:41234
+Sun Oct 17 2021 08:59:08 GMT+0800 (HKT) TCP new client ::ffff:167.248.133.60:58210
+Sun Oct 17 2021 08:59:09 GMT+0800 (HKT) TCP ::ffff:167.248.133.60:58210 client data str GET / HTTP/1.1
+Host: 172.104.76.143:8124
+
+
+Sun Oct 17 2021 08:59:09 GMT+0800 (HKT) TCP ::ffff:167.248.133.60:58210 client data buf 474554202f20485454502f312e310d0a486f73743a203137322e3130342e37362e3134333a383132340d0a0d0a
+events.js:183
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+worker 22706 died
+Worker 22712 started
+tcp server listening { port: 8124, family: 'IPv6', address: '::' }
+http listening :::8080
+udp listening 0.0.0.0:41234
+Sun Oct 17 2021 09:06:46 GMT+0800 (HKT) HTTP ::ffff:91.231.160.19:46022 GET / ["Host","172.104.76.143","Accept","text/plain,text/html"]
+
+Sun Oct 17 2021 10:08:28 GMT+0800 (HKT) HTTP ::ffff:78.188.216.106:50792 GET / ["Host","172.104.76.143","Accept","text/plain,text/html"]
+
+Sun Oct 17 2021 12:38:53 GMT+0800 (HKT) HTTP ::ffff:219.155.175.111:43964 GET /boaform/admin/formLogin?username=user&psd=user []
+
+Sun Oct 17 2021 12:44:23 GMT+0800 (HKT) HTTP ::ffff:46.174.191.32:38364 GET / ["User-Agent","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_0) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.100 Safari/534.30","Accept","*/*"]
+
+Sun Oct 17 2021 16:40:11 GMT+0800 (HKT) HTTP ::ffff:192.241.205.238:48450 GET / ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 zgrab/0.x","Accept","*/*","Accept-Encoding","gzip"]
+
+Sun Oct 17 2021 17:08:03 GMT+0800 (HKT) HTTP ::ffff:167.248.133.42:54026 GET / ["Host","172.104.76.143:8080"]
+
+Sun Oct 17 2021 17:08:03 GMT+0800 (HKT) HTTP ::ffff:167.248.133.42:46786 GET / ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)","Accept","*/*","Accept-Encoding","gzip"]
+
+Sun Oct 17 2021 18:43:13 GMT+0800 (HKT) HTTP ::ffff:45.148.10.241:51334 GET http://example.com/ ["Host","example.com","User-Agent","Go-http-client/1.1","Accept-Encoding","gzip"]
+
+Sun Oct 17 2021 21:57:44 GMT+0800 (HKT) HTTP ::ffff:184.105.139.68:33398 GET / ["Host","172.104.76.143"]
+

